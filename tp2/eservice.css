@@ -1,0 +1,86 @@
+#usernoun{
+    border-style: solid;
+    border-radius: 30px;
+    width: 300px;
+    height: 15px;
+    padding: 15px;
+    border-width: 1px;
+}
+#login{
+    border-style: solid;
+    border-radius: 30px;
+    width: 300px;
+    height: 15px; 
+    padding: 15px;
+    border-width:1px;
+}
+.forme:active{
+  color: blue;
+}
+p{
+    margin-left:70px;
+}
+#checkbox{
+    border-radius: 100px;
+    color: grey;
+}
+.check{
+    display: flex;
+    align-items: center;
+}
+#conn{
+    border-style: solid;
+    border-radius: 30px;
+    width: 340px;
+    height: 45px; 
+    padding: 15px;
+    border-width:1px;
+    background-color:#2E59D9;
+    color:aliceblue;
+    padding-left:25px;
+    padding-top: 15px;
+}
+hr{
+    width:340px;
+    padding-left: 0px;
+
+}
+.quest{
+    color:#BAC5EE;
+}
+#ques{
+   margin-left: 95px;
+}
+img{
+    height: 475px;
+    width: 420px;
+    margin-top: 4px;
+}
+.table{
+    padding-left:45px ;
+    background-color: white;
+    padding-right: 10px;
+}
+#copyright{
+    color: grey;
+    margin-left: 30px;
+}
+body{
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 809px;
+    background-color: #2E59D9;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+@media (max-width:414){
+    .table{
+        padding-left:45px ;
+        background-color: white;
+        padding-right: 10px;
+    }
+
+}
